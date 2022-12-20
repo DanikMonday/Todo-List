@@ -1,8 +1,6 @@
 import React, { Fragment } from "react";
 
-// dentro de checkbox recibimos unas propiedades, la data de las 
-// propiedades que habíamos definido anteriormente en FormTodo 
-
+// Se crea la constante Checkbox en donde se tendrán en cuenta los cambios de las props, en especifico de data
 
 const Checkbox = (props) => {
     const {
